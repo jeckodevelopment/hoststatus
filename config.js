@@ -1,7 +1,7 @@
 module.exports = {
   "title": "Host Status",
   "name": "host_status",
-  "baseUrl": "https://jeckodevelopment.github.io/hoststatus/",
+  "baseUrl": "http://jeckodevelopment.github.io",
   "description": "",
   "defaultLocale": "it",
   "locales": [
