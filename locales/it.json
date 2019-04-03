@@ -1,64 +1,64 @@
 {
-  "title": "System Status",
-  "description": "Keep up to date with real-time and historical interruptions to our service which may be affecting you.",
+  "title": "Stato del Sistema",
+  "description": "Resta aggiornato con dati in tempo reale e le interruzioni passate ai nostri servizi che potrebbero avere impatti su di te.",
   "labels": {
-    "contact": "Contact",
-    "support": "Support",
+    "contact": "Contatto",
+    "support": "Supporto",
     "home": "Home",
     "powered-by": "Powered by"
   },
   "statuses": {
-    "under-maintenance": "Under Maintenance",
-    "degraded-performance": "Degraded Performance",
-    "partial-outage": "Partial Outage",
-    "major-outage": "Major Outage",
-    "operational": "Operational"
+    "under-maintenance": "In Manutenzione",
+    "degraded-performance": "Performance degradate",
+    "partial-outage": "Parziale disservizio",
+    "major-outage": "Importante disservizio",
+    "operational": "Operativo"
   },
   "dates": {
     "formats": {
-      "short": "MMM D, YYYY",
-      "long": "MMM D, HH:mm UTC",
+      "short": "D MMM, YYYY",
+      "long": "D MMM, HH:mm UTC",
       "month": "MMMM YYYY"
     }
   },
   "incidents": {
-    "incidents": "Incidents",
-    "incident": "Incident",
-    "scheduled": "Scheduled Maintenance",
-    "incidents-history": "Incidents History",
-    "incidents-history-description": "Current & Historical operational interruptions to our service.",
-    "incidents-history-days-since-latest": "1 day since last incident | {days} days since last incident",
-    "latest-incidents": "Latest Incidents",
-    "current-status": "Current Status",
-    "current-status-description": "Keep up to date with real-time and historical interruptions to our service which may be affecting you.",
-    "no-incidents": "No incidents reported.",
-    "resolved": "Resolved",
-    "unresolved": "Unresolved",
+    "incidents": "Incidenti",
+    "incident": "Incidente",
+    "scheduled": "Manutenzione Programmata",
+    "incidents-history": "Elenco incidenti",
+    "incidents-history-description": "Interruzioni attuali e storiche ai nostri servizi.",
+    "incidents-history-days-since-latest": "1 giorno dall'ultimo incidente | {days} giorni dall'ultimo incidente",
+    "latest-incidents": "Ultimi Incidenti",
+    "current-status": "Stato attuale",
+    "current-status-description": "Resta aggiornato con dati in tempo reale e le interruzioni passate ai nostri servizi che potrebbero avere impatti su di te.",
+    "no-incidents": "Nessun incidente riportato.",
+    "resolved": "Risolto",
+    "unresolved": "Non risolto",
     "paginator": {
-      "previous": "Previous Page",
-      "next": "Next Page",
-      "page": "Page"
+      "previous": "Pagina precedente",
+      "next": "Pagina successiva",
+      "page": "Pagina"
     },
     "collapse": {
-      "show": "Show all {count} Incidents",
-      "hide": "Show less Incidents"
+      "show": "Mostra tutti {count} incidenti",
+      "hide": "Mostra meno incidenti"
     }
   },
   "error": {
-    "go-back-link": "Go back to homepage",
+    "go-back-link": "Torna all'homepage",
     "404": {
-      "title": "Page not found",
-      "description": "The page you were looking for was not found"
+      "title": "Pagina non trovata",
+      "description": "La pagina che stai cercando non è stata trovata"
     },
     "other": {
-      "title": "An error occurred",
-      "description": "We're sorry, but we cannot fulfill your request"
+      "title": "Errore",
+      "description": "Spiacenti, la richiesta non può essere elaborata"
     }
   },
   "offline": {
-    "title": "You're Offline",
-    "subtitle": "Sorry!",
-    "description": "We were unable to load the page you requested. Please check your network connection and try again."
+    "title": "Sei Offline",
+    "subtitle": "Spiacenti!",
+    "description": "Non è stato possibile caricare la pagina richiesta. Controlla la tua connessione di rete e riprova."
   },
   "systems": {
     "items": {
@@ -72,33 +72,34 @@
         "title": "Server Dedicati"
       },
       "hosting": {
-        "title": "Hosting"
+        "title": "Hosting",
+        "description": "Servizi di hosting"
       }
     }
   },
   "notifications": {
-    "title": "Subscribe to Updates",
-    "description": "Choose from the options below to automatically receive status updates.",
+    "title": "Iscriviti agli Aggiornamenti",
+    "description": "Scegli tra le opzioni sotto per ricevere automaticamente aggiornamenti sullo stato dei servizi.",
     "buttons": {
-      "subscribe": "Subscribe",
-      "close": "Close"
+      "subscribe": "Abbonati",
+      "close": "Chiudi"
     },
     "items": {
       "icalendar": {
-        "title": "Calendar",
-        "description": "Receive <strong>Scheduled Maintenances</strong> via <a href=\"{url}\" target=\"_blank\" rel=\"noopener\">iCalendar</a>."
+        "title": "Calendario",
+        "description": "Ricevi notifiche sulle <strong>Manutenzioni Programmate</strong> tramite <a href=\"{url}\" target=\"_blank\" rel=\"noopener\">iCalendar</a>."
       },
       "feeds": {
         "title": "Feeds",
-        "description": "Get <a href=\"{atom_url}\" target=\"_blank\" rel=\"noopener\">the Atom Feed</a> or <a href=\"{rss_url}\" target=\"_blank\" rel=\"noopener\">the RSS Feed</a>."
+        "description": "Ottieni un <a href=\"{atom_url}\" target=\"_blank\" rel=\"noopener\">Feed Atom</a> oppure un <a href=\"{rss_url}\" target=\"_blank\" rel=\"noopener\">Feed RSS</a>."
       },
       "twitter": {
         "title": "Twitter",
-        "description": "or <a href=\"https://twitter.com/{username}\" target=\"_blank\" rel=\"noopener\">view our Profile</a>."
+        "description": "oppure <a href=\"https://twitter.com/{username}\" target=\"_blank\" rel=\"noopener\">vedi il nostro Profilo</a>."
       },
       "support": {
         "title": "Support",
-        "description": "Visit our <a href=\"{url}\" target=\"_blank\" rel=\"noopener\">Support Site</a>."
+        "description": "Visita il nostro <a href=\"{url}\" target=\"_blank\" rel=\"noopener\">Sito di Supporto</a>."
       }
     }
   }
