@@ -1,0 +1,1 @@
+{"count":1,"page":1,"page_size":10,"total_pages":1,"incidents":[{"id":"05a1a2bf","title":"Attacco DDos","date":"2019-04-03T14:44:19.987Z","modified":"2019-04-03T14:44:37.331Z","scheduled":null,"severity":"partial-outage","affectedsystems":["host-it","hosting"],"resolved":false,"content":"<p>L'attacco ha mandato tutto in fallimento</p>\n<!--- language code: it -->\n"}]}
