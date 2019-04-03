@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Statusfy//host_status//calendar//scheduled//IT
+PRODID:-//Statusfy//terenzano.it//calendar//scheduled//IT
 NAME:Host Status
 X-WR-CALNAME:Host Status
 TIMEZONE-ID:UTC
