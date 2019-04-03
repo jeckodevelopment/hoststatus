@@ -5,7 +5,7 @@ severity: partial-outage
 affectedsystems:
   - host-it
   - hosting
-resolved: false
+resolved: true
 ---
 L'attacco ha mandato tutto in fallimento
 
