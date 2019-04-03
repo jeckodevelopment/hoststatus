@@ -1,1 +1,1 @@
-[{"name":"host-it","status":"operational","order":1},{"name":"dns","status":"operational","order":2},{"name":"hosting","status":"operational","order":3},{"name":"server-dedicati","status":"under-maintenance","order":4}]
+[{"name":"host-it","status":"operational","order":1},{"name":"dns","status":"operational","order":2},{"name":"hosting","status":"operational","order":3},{"name":"server-dedicati","status":"operational","order":4}]
