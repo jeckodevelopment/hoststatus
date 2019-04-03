@@ -46,10 +46,6 @@ workbox.precaching.precacheAndRoute([
     "revision": "dd55c35c24efee932886f8856cada06f"
   },
   {
-    "url": "/static/7a7ac205366fc2c17000.js",
-    "revision": "7eb21c9d54998f0e37e3f9206f0dd2ca"
-  },
-  {
     "url": "/static/81c01b89b1d8313e506c.js",
     "revision": "3398143c9f108939df5957c0652245cb"
   },
@@ -76,6 +72,10 @@ workbox.precaching.precacheAndRoute([
   {
     "url": "/static/d4ea9b6600bfed34ac33.js",
     "revision": "463f9e1d31dcdee6bc4c43e934da3ea0"
+  },
+  {
+    "url": "/static/ef93462a3aa1a5907d9e.js",
+    "revision": "1480a3243acd774a2382b98af51c88be"
   }
 ], {
   "cacheId": "host_status",
